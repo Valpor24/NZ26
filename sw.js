@@ -1,5 +1,5 @@
 // Cambia VERSION a ogni aggiornamento del sito: i telefoni scaricheranno la nuova versione.
-const VERSION = 'nz-2026-11-09b';
+const VERSION = 'nz-2026-11-09c';
 const FILES = ['./', 'index.html', 'd3.min.js', 'manifest.webmanifest',
   'fonts/overpass-400.woff2', 'fonts/overpass-600.woff2', 'fonts/overpass-800.woff2',
   'icon-192.png', 'icon-512.png', 'icon-maskable-512.png', 'apple-touch-icon.png'];
