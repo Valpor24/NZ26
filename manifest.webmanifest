@@ -1,0 +1,17 @@
+{
+  "name": "Nuova Zelanda in auto",
+  "short_name": "NZ in auto",
+  "description": "Mappa del viaggio in Nuova Zelanda: tappe, tempi di guida e programma giorno per giorno.",
+  "lang": "it",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f8f8f3",
+  "theme_color": "#1f4434",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png"},
+    {"src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
